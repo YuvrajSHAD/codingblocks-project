@@ -52,11 +52,11 @@ img,svg{
 .nav-head{
     font-weight: bold;
     font-family:cursive;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .nav-titles{
-    font-size: 30px;
+    font-size: 20px;
     margin-left: 20px;
 }
 .nav-this{
@@ -442,3 +442,5 @@ img,svg{
         width: 16rem;
     }
   }
+
+/* @media screen and (max-width:1126px) */
